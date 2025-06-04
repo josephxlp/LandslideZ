@@ -1,8 +1,9 @@
 #data dir 
 data/*
 !data/.gitkeep 
-
-
+*.csv
+*.th 
+prompt
 
 
 # Byte-compiled / optimized / DLL files
